@@ -10,7 +10,7 @@
   <li><strong>Automated Testing:</strong> Flexible assertion methods enable thorough validation of form fields, submission processes, and error handling</li>
 </ul>
 
-<h2>Features</h2>
+<h2>Getting Started</h2>
 <ul>
   <li>
     Install Dependencies: Ensure you have JUnit and Selenium WebDriver installed in your development environment.
@@ -26,5 +26,6 @@
 # Web form snap
 ![aweb](https://github.com/msazid/web-app-form-automation/assets/70015894/5b13e25b-ffca-4d53-9b0c-274d67c2f617)
 
-# Site link: <a herf="https://www.digitalunite.com/practice-webform-learners">Click Here</a>
+Site link: <a herf="https://www.digitalunite.com/practice-webform-learners">Click Here</a>
+Test vide link: <a herf="#">Click Here</a>
 
